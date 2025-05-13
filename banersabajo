@@ -1,0 +1,52 @@
+{
+  "largeBannerTop": {
+    "url": "https://rebrand.ly/BrayanRockerWeb",
+    "image": "https://static.wixstatic.com/media/9335aa_43f60e65c41540d6974329b1e1cadd8f.gif"
+  },
+  "smallBanners": [
+    {
+      "url": "https://rebrand.ly/MasSeriesGratis",
+      "image": "https://static.wixstatic.com/media/705c45_c222aa29473d4fc788991f5cc97c1f3a~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Series%20en%20HD%20y%20Full%20HD%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/SeriesOnlineGratis",
+      "image": "https://static.wixstatic.com/media/9335aa_16849224ea354cdc8bf1d6693967c207~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/portada%20MEGAPACKS%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasCursosGratis",
+      "image": "https://static.wixstatic.com/media/9335aa_4484004f4ebc481dbe733ac0a0b3e408~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/portada%20curos%20gratuitos%20con%20certificado.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasAnimeGratis",
+      "image": "https://static.wixstatic.com/media/705c45_39321f3aee354243a9733b8ddd10d9cc~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Anime%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasDoramasGratis",
+      "image": "https://static.wixstatic.com/media/705c45_d48c2bfa7d064a1bbdeb0d77e6142cae~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Doramas%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasJuegosGratis",
+      "image": "https://static.wixstatic.com/media/705c45_b6e478a9bfee492bbbfa39b6243fbca3~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Juegos%20para%20varias%20consolas%20Gratis%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/AplicacionesParaCelular",
+      "image": "https://static.wixstatic.com/media/705c45_320f1f988f114f57980538845a2fb705~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Aplicaciones%20para%20Celular%20Gratis%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MegaPacks",
+      "image": "https://static.wixstatic.com/media/705c45_0a4418e2653040e6b6375f45f6373276~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/MegaPacks%20BrayanRocker%20copia.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasLibrosGratis",
+      "image": "https://static.wixstatic.com/media/705c45_5b1ba7c521c443499a05bb213da512ce~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Libros%20y%20Comics%20BrayanRocker.jpg"
+    },
+    {
+      "url": "https://rebrand.ly/MasProgramasGratis",
+      "image": "https://static.wixstatic.com/media/705c45_e83c7202aa394d81b123bd3feb17df58~mv2.jpg/v1/fill/w_303,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Programas%20Gratis%20BrayanRocker.jpg"
+    }
+  ],
+  "largeBannerBottom": {
+    "url": "https://rebrand.ly/JuegosDeSteamGratis",
+    "image": "https://static.wixstatic.com/media/9335aa_49913b4d8d4b4656a67e2cf131d24f3e.jpg/v1/fill/w_390,h_75,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9335aa_49913b4d8d4b4656a67e2cf131d24f3e.jpg"
+  }
+}
